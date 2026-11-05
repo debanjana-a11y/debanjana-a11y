@@ -34,12 +34,11 @@ PostgreSQL • CouchDB • Couchbase (CBS) • TimesTenDB • GridGain • Mongo
 - **[Nemotron-ATS-War-Room](https://github.com/debanjana-a11y/Nemotron-ATS-War-Room)**  
   An automated resume analysis and job description alignment pipeline powered by high-throughput LLM reasoning and structured JSON outputs.
 
-- **[TodoList](https://github.com/debanjana-a11y/TodoList)**  
-  A Note Taking Tool to keep track on daily activities.
-
 - **[job-application-tracker](https://github.com/debanjana-a11y/job-application-tracker)**  
   A containerized local parsing pipeline combining Node.js, Python (FastAPI), Docker Compose, and on-demand Ollama inference to organize recruitment feedback loops.
 
+  - **[TodoList](https://github.com/debanjana-a11y/TodoList)**  
+  A Note Taking Tool to keep track on daily activities.
 ---
 
 ### 📊 GitHub Activity & Stats
