@@ -47,3 +47,4 @@ PostgreSQL • CouchDB • Couchbase (CBS) • TimesTenDB • GridGain • Mongo
 - **LinkedIn:** [https://www.linkedin.com/in/debanjana-sarkar-697bb9b1/]
 - **X/Twitter:** [https://x.com/debanjanastwt]
 - **GitHub:** [@debanjana-a11y](https://github.com/debanjana-a11y)
+- **Medium:** [https://medium.com/@debanjanasarkar564]
