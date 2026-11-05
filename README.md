@@ -1,6 +1,6 @@
 # Hi there, I'm Debanjana 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debanjana-sarkar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debanjana-sarkar-697bb9b1/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:debanjanasarkar564@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Kolkata%2C%20India-blue?style=flat-square)](#)
 
