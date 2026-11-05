@@ -37,17 +37,8 @@ PostgreSQL • CouchDB • Couchbase (CBS) • TimesTenDB • GridGain • Mongo
 - **[job-application-tracker](https://github.com/debanjana-a11y/job-application-tracker)**  
   A containerized local parsing pipeline combining Node.js, Python (FastAPI), Docker Compose, and on-demand Ollama inference to organize recruitment feedback loops.
 
-  - **[TodoList](https://github.com/debanjana-a11y/TodoList)**  
+- **[TodoList](https://github.com/debanjana-a11y/TodoList)**  
   A Note Taking Tool to keep track on daily activities.
----
-
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debanjana-a11y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Debanjana's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debanjana-a11y&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
 ---
 
 ### 📬 Connect With Me
