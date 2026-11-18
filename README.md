@@ -30,6 +30,8 @@ PostgreSQL • CouchDB • Couchbase (CBS) • TimesTenDB • GridGain • Mongo
 ---
 
 ### 🚀 Featured Repositories & Highlights
+- **[Kolkata's Hyper-Local AQI & PM2.5 Forecasting Engine](https://github.com/debanjana-a11y/AQI-predictor)**  
+  A machine learning air-quality forecasting and hyper-local calibration pipeline built with Random Forest Regression, OpenAQ ground-station telemetry, and Open-Meteo atmospheric data. This model reduces hyper-local street-level error by 90.1% compared with the Open Meteo's raw regional model's Mean Square Error.
 
 - **[Nemotron-ATS-War-Room](https://github.com/debanjana-a11y/Nemotron-ATS-War-Room)**  
   An automated resume analysis and job description alignment pipeline powered by high-throughput LLM reasoning and structured JSON outputs.
